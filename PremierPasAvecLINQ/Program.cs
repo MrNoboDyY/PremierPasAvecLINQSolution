@@ -17,7 +17,7 @@ namespace PremierPasAvecLINQ
                 4,2,6,13,42,58,77
             };
          /////////////////////////////////////   
-            //synthaxe SQL 
+            //synthaxe SQL basique
             /////////////////////////////
             /*var pairs = from elt in tab
                         where elt % 2 == 0
